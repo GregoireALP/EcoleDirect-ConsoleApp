@@ -21,7 +21,7 @@
     menu.addItem(
         "Moyenne Mathématque",
         () => {
-            console.log("Sale pute")
+            console.log("debug")
         }
     )
     menu.addItem(
