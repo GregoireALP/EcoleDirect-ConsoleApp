@@ -12,7 +12,7 @@ Download ALL the source code and put it in a folder or in your desktop.
 Don't change anything in files and in the folders
 
 Go in the "menus" folder and type: 
-```
+```bash
 node ecoledirect.js <YOUR LOGIN> <YOUT PASSWORD>
 ```
 
