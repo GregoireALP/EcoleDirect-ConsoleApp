@@ -20,7 +20,7 @@ If the logs are wrong the terminal will throw an error
 
 ## Settings
 
-After launching script, all settings and options are explain
+After launching the program all options are available in the button provided for this purpose (In Progress)
 
 ## Authors
 
