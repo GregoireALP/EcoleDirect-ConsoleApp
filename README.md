@@ -4,25 +4,19 @@ A console script to acces to the EcoleDirect API
 
 ### Prerequisites
 
-To execute the script you have to install [Node.JS](https://nodejs.org/en/download/)
+To execute the script you need to install [Node.JS](https://nodejs.org/en/download/)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Download ALL the source code and put it in a folder or in your desktop.
+Don't change anything in files and in the folders
 
-Say what the step will be
-
+Go in the menus folder and type: 
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+node ecoledirect.js <YOUR LOGIN> <YOUT PASSWORD>
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+If the logs are wrong the terminal send you back an error
 
 ## Running the tests
 
