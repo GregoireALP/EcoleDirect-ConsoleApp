@@ -11,7 +11,7 @@ To execute the script you need to install [Node.JS](https://nodejs.org/en/downlo
 Download ALL the source code and put it in a folder or in your desktop.
 Don't change anything in files and in the folders
 
-First go in the menus folder
+First go in the menus folder:
 ```bash
 cd menus
 ```
@@ -28,4 +28,4 @@ After launching the program all options are available in the button provided for
 
 ## Authors
 
-[Grégoire Alperovitch](https://github.com/GregoireALP)
+* [Grégoire Alperovitch](https://github.com/GregoireALP)
