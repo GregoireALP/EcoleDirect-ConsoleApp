@@ -4,8 +4,7 @@ A console script to acces to the EcoleDirect API
 
 ### Prerequisites
 
-To execute the script you have to install Node.js
-* [NODE](https://nodejs.org/en/download/) - Node.JS website
+To execute the script you have to install [Node.JS](https://nodejs.org/en/download/)
 
 ### Installing
 
