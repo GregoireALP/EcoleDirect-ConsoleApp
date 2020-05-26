@@ -11,12 +11,16 @@ To execute the script you need to install [Node.JS](https://nodejs.org/en/downlo
 Download ALL the source code and put it in a folder or in your desktop.
 Don't change anything in files and in the folders
 
-Go in the menus folder and type: 
+Go in the "menus" folder and type: 
 ```
 node ecoledirect.js <YOUR LOGIN> <YOUT PASSWORD>
 ```
 
-If the logs are wrong the terminal send you back an error
+If the logs are wrong the terminal will throw an error
+
+## Settings
+
+After launching script, all settings and options are explain
 
 ## Authors
 
